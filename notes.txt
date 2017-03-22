@@ -1,0 +1,4 @@
+activate tensorflow
+jupyter notebook
+
+# never use root folder!
